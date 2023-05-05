@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zlk999
 - 👀 I’m interested in iOS
-- 🌱 I’m currently learning MVVM、swift、Objective—C...
+- 🌱 I’m currently learning Web、iOS...
 - 📫 How to reach me zhanglkx@163.com
 
 掘金：https://juejin.cn/user/4336920460798183
