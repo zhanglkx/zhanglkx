@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zlk999
-- 👀 I’m interested in iOS
+- 👀 I’m interested in Web、iOS
 - 🌱 I’m currently learning Web、iOS...
 - 📫 How to reach me zhanglkx@163.com
 
