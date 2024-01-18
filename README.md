@@ -78,12 +78,6 @@ As a passionate individual, embrace challenges with passion. Each hurdle is a gr
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanglkx&repo=react_native_learn)](https://github.com/zhanglkx/react_native_learn)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanglkx&repo=ling-wu-web)](https://github.com/zhanglkx/ling-wu-web)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanglkx&repo=UILearn)](https://github.com/zhanglkx/UILearn)
-
-
 
 
 
