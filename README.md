@@ -2,6 +2,8 @@
 - 👀 I’m interested in Web、iOS
 - 🌱 I’m currently learning Web、iOS...
 - 📫 How to reach me zhanglkx@163.com
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhanglkx)
+
 
 掘金：https://juejin.cn/user/4336920460798183
 
